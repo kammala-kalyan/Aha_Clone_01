@@ -1,0 +1,423 @@
+* {
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;  
+    background-color: #1D1E20;
+    
+    overflow-x: clip;
+    
+    
+}
+/*----------------------NavBar------------------------------- */
+.navbar {
+    height: 75px;
+    width: 100%;;
+    background: linear-gradient( to top ,rgba(0, 0, 0, 0),rgba(0, 0, 0, 0.825));
+    position: fixed;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content:space-between;
+    overflow-x: clip;
+    padding: 0px;
+    position: fixed;
+    z-index: 100;
+}
+#shadow {
+    height: 50px;
+    width: 100%;
+   /* background-color: rgba(0, 0, 0, 0.492);*/
+    box-shadow: rgb(220, 11, 11);
+    background: transparent;
+    z-index: 15;
+    
+}
+/*----------------------NavBarBox-1------------------------------- */
+.box1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background: transparent;
+    padding-left: 29px;
+}
+#navlogo {
+    height: 31px;
+    width: 57.99px;
+    background-image: url("https://jioreliance4g.in/wp-content/uploads/2020/11/Aha_Telugu_App_Apk_Download-300x165.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: transparent;
+    padding-left: 10px;
+    z-index: 11;
+   /* border-radius: 40px;*/
+    
+
+
+}   
+/*----------------------NavBarBox-2------------------------------- */
+
+#navlist {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content:space-around;
+    background-color: transparent;
+}
+#navtext {
+    font-size: 14px;
+    color: #FFFFFF;
+    opacity: 0.93;
+    text-decoration: none;
+    font-weight: light;
+    background: transparent;
+    
+}
+#navtext:hover {
+    
+    opacity: 1;
+    
+    
+}
+/*            ISSUE HERE !
+@keyframes .navtext {
+    form{font-size: 14px;
+        color: #ffffffc9;}
+    to {color: #FFFFFF;
+        font-weight: bold;
+        font-size: 16px;
+    }    
+    
+}   */
+/*----------------------NavBarBox-3------------------------------- */
+#navotherinfo {
+    height: 42px;
+    width: 350px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    min-width: 200px;
+    padding: 0 5px;
+    background: transparent;
+    position: fixed;
+    right: 20px;
+    
+   
+}
+#navotherinfo i {
+    font-size: 20px;
+    background: transparent;
+}
+#language  {
+    background: transparent;
+}
+#searchicon  {
+    background: transparent;
+}
+#language i {
+    font-size: 27px;
+}
+
+#signin {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background: transparent;
+}
+.login {
+    display: flex;
+    flex-direction: row;
+    padding-top: 2px;
+    background: transparent;
+}
+#subscribe {
+    height: 42px;
+    width: 145.6px;
+    border-radius: 50px;
+    background-color: #ff6600;
+    text-decoration: none;
+    border: 0px;
+    color: #FFFFFF;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-shadow: 1px 1px 1px black;
+    
+    
+
+}
+button:hover {
+    border-color: black;
+    border-width: 30px;
+    box-shadow:  0px 4px 10px rgba(0, 0, 0, 0.5);
+}
+#searchicon:hover {
+    border-color: black;
+    border-width: 30px;
+    box-shadow:  0px 4px 10px rgba(0, 0, 0, 0.5);
+}
+#language:hover {
+    border-color: black;
+    border-width: 30px;
+    box-shadow:  0px 4px 10px rgba(0, 0, 0, 0.5);
+}
+#language:active {
+    border-color: red;
+    border-width: 30px;
+    box-shadow:  0px 4px 10px rgba(0, 0, 0, 0.5);
+}
+
+.herobar {
+    height: 472px;
+    width: 100%;
+    background-image: url("https://image-resizer-cloud-api.akamaized.net/image/CAF4DA51-72E6-414D-A749-94971C483F8F/0-3x1.jpg?width=2310&updatedTime=2024-08-30T14:32:41Z&dt=Web");
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow-x: clip;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.5);
+}
+
+/*  ---------Heading1----------   */
+
+#headings {
+    height: 50px;
+    width: 100%;
+    overflow-x: clip;
+    font-size: 24px;
+    color: #FFFFFF;
+    font-weight: bold;
+    position: relative;
+    bottom: 2px;
+    margin: 25px 0px 0px 0px;
+    padding:16px 32px 0px;
+    display: flex;
+    justify-content: space-between;
+}
+
+a {
+    color:white;
+    font-size: medium;
+    text-decoration: none;
+}
+.posterslist1 {
+    height: 300px;
+    width: 100%;
+    padding:15px 10px 10px 0px ;
+    margin-left: 25px;
+    display: flex;
+    overflow: hidden;
+    padding-right: 15px;
+    overflow-x: clip;
+}
+#banner {
+    height: 240px;
+    width: 160px;
+    
+    border-radius: 15px;
+    overflow: hidden;
+    position: relative;
+}
+#image {
+    height: 240px;
+    width: 160px;
+    position: relative;
+    border-radius: 15px;
+    overflow: hidden;
+    z-index: 13;
+}
+#premium {
+    height: 20px;
+    width: 95px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom-left-radius: 13px ;
+    background-color:  #ff6600;
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: 15;
+}
+#name {
+    padding-top: 25px;
+    height: 25px;
+    width: 160px;
+    position: relative;
+    display: flex;
+    justify-content: flex-start;
+    align-items: last baseline;
+    bottom: 0;
+    font-size: medium;
+    overflow-x: hidden;
+    color: whitesmoke;
+}
+#premium > i {
+    padding: 0px 5px;
+    background-color: #ff6600;
+    border-radius: 15px;
+}
+#posterbox {
+    padding-right: 15px;
+    box-shadow: #000000;
+    transition: transform 0.35s ease-in-out;
+}
+#posterbox:hover {
+    
+    transform: translateY(-10px);
+}
+
+/* ---------- ACTORS IMAGES SECTION ------------*/
+
+.actors {
+    height: 170px;
+    width:100%;
+    border-radius: 65px;
+    border-width: 1.2px;
+    border-color: #000000;
+    display: flex;
+    justify-content: flex-start;
+    padding: 15px 10px 15px;
+    margin-left: 25px;
+    overflow-x: clip;
+
+    
+
+}
+#photo {
+    height: 130px;
+    width: 130px;
+    border-radius: 65px;
+    margin-right: 30px;
+    border-width: 0.5px;
+    border-color: #000000;
+    transition: transform 0.35s ease-in-out;
+    
+    
+}
+#photo > img {
+    height: 130px;
+    width: 130px;
+    border-radius: 65px;
+    transition: transform 0.35s ease-in-out;
+    
+}
+
+#photo :hover {
+    
+    transform: translateY(-10px);
+}
+
+/*-----------------------footer Section--------------- */
+footer {
+    height: 515px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+   /* margin-top: 25px;
+    */
+    background-color: #161717;   
+    overflow-x: clip;
+}
+.foot {
+    height: 405px;
+    width: 256px;
+    background: transparent;
+    margin-left: 70px;
+    overflow-x: clip;
+}
+/*--------------box-1 in footer--------------------*/
+#footlogo {
+    background-image: url("aha_ashy_logo_.png");
+    height: 100px;
+    width: 100px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: transparent;
+}
+#footheadings {
+    font-size: 16px;
+    color: #FFFFFF;
+    background-color: transparent;
+    padding-bottom: 10px;
+    padding-top: 30px;
+}
+#smedia {
+    height: 36px;
+    width: 256px;
+    background-color: transparent;
+    
+
+}
+#thumbnail {
+    height: 32px;
+    width: 32px;
+    background-color: transparent;
+    
+}
+
+
+#appthumbnail {
+    height: 36px;
+    width: 125px;
+    background-color: transparent;
+    
+    
+}
+/*---------box-2 in footer -------------*/
+
+#footercontent {
+    background-color: transparent;
+    color: #ffffff5a;
+    font-size: 14px;
+    display: flex;
+    padding-top:15px ;
+    margin-left: 5px;
+}
+.footerbox1 {
+    height: 440px;
+    display: flex;
+    justify-content: flex-start;
+    width: 93rem;
+    background-color: transparent;
+}
+.footerbox2 {
+    width: 1203px;
+    padding-left: 40px;
+    background-color: transparent;
+    width: 93rem;
+    border-top: 2px solid white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#powerby {
+    background-color: transparent;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    padding-right: 30px;
+
+}
+#powerby > a > img {
+    background-color: transparent;
+    justify-content: flex-end;
+    align-items: flex-end;
+    width: 80px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
