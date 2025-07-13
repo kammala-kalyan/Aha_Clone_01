@@ -50,7 +50,9 @@ You can view the live version of the project here:
 **Kammala Kalyan**  
 
 ---
+
 <p align="center">
-  <img src="https://www.vhv.rs/dpng/d/486-4866189_html-css-logo-png-transparent-png.png" alt="Badges" width="80" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5 Logo" width="80"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3 Logo" width="80"/>
 </p>
 
