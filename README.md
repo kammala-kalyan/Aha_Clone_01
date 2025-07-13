@@ -26,7 +26,7 @@ As a student learning web development, I created this project to:
 ## 🌐 Live Demo
 
 You can view the live version of the project here:  
-🔗 [Aha](https://kammala-kalyan.github.io/Aha-Clone/)
+🔗 [<img src="https://blog.aha.video/wp-content/uploads/2021/07/aha_logo.png" alt="Badges" width="80" />](https://kammala-kalyan.github.io/Aha-Clone/)
 
 ---
 
