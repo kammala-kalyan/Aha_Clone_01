@@ -33,7 +33,7 @@ You can view the live version of the project here:
 ## 📸 Screenshots
 
 ### 🖥️ Home Page Preview
-![Home Page]([images/home.png](https://github.com/kammala-kalyan/Aha-Clone/blob/main/home_page.png))
+![Home Page]([images/home.png](https://github.com/kammala-kalyan/Aha-Clone/blob/main/home_page.png)
 
 ### 🎬 Banner Section Preview
 ![Banner Section](https://github.com/kammala-kalyan/Aha-Clone/blob/main/page_ending.png)
