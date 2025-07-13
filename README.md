@@ -40,9 +40,9 @@ You can view the live version of the project here:
 ---
 ## 📜 Disclaimer
 
-This is a **personal practice project** made for educational purposes only.  
-I do **not own** any logos, images, or content inspired by Aha.  
-This project is **not affiliated** with or endorsed by Aha or any of its partners.
+ - This is a **personal practice project** made for educational purposes only.  
+ - I do **not own** any logos, images, or content inspired by Aha.  
+ - This project is **not affiliated** with or endorsed by Aha or any of its partners.
 
 ---
 ## 🙋‍♂️ Author
@@ -51,6 +51,6 @@ This project is **not affiliated** with or endorsed by Aha or any of its partner
 
 ---
 <p align="center">
-  <img src="https://www.vhv.rs/dpng/d/486-4866189_html-css-logo-png-transparent-png.png" alt="Badges" width="80" />
+  <img src="https://icon-library.com/images/2018/2844448_css3-logo-html-css-hd-png-download.png" alt="Badges" width="80" />
 </p>
 
