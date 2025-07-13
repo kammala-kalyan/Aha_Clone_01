@@ -43,3 +43,13 @@ You can view the live version of the project here:
 This is a **personal practice project** made for educational purposes only.  
 I do **not own** any logos, images, or content inspired by Aha.  
 This project is **not affiliated** with or endorsed by Aha or any of its partners.
+
+---
+## 🙋‍♂️ Author
+
+**Kammala Kalyan**  
+
+---
+![HTML](https://img.shields.io/badge/HTML-5-orange)
+![CSS](https://img.shields.io/badge/CSS-3-blue)
+
