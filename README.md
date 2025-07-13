@@ -51,7 +51,7 @@ This project is **not affiliated** with or endorsed by Aha or any of its partner
 
 ---
 <p align="center">
-  <img src="https://w7.pngwing.com/pngs/390/229/png-transparent-logo-html5-brand-design-text-logo-number.png" alt="HTML5 Logo" width="80"/>
-  <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-css-logo-png-transparent-svg-vector-bie-supply-9.png" alt="CSS3 Logo" width="80"/>
+  <img src="https://w7.pngwing.com/pngs/390/229/png-transparent-logo-html5-brand-design-text-logo-number.png" alt="HTML5 Logo" width="80" height="5"/>
+  <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-css-logo-png-transparent-svg-vector-bie-supply-9.png" alt="CSS3 Logo" width="80" height="5"/>
 </p>
 
