@@ -23,12 +23,22 @@ As a student learning web development, I created this project to:
 - No JavaScript, interactivity, or responsive design
 
 ---
-## 📸 Screenshot
+## 🌐 Live Demo
 
-![Aha Website Clone](home_page.png)
+You can view the live version of the project here:  
+🔗 [Aha](https://kammala-kalyan.github.io/Aha-Clone/)
 
 ---
 
+## 📸 Screenshots
+
+### 🖥️ Home Page Preview
+![Home Page]([images/home.png](https://github.com/kammala-kalyan/Aha-Clone/blob/main/home_page.png))
+
+### 🎬 Banner Section Preview
+![Banner Section](https://github.com/kammala-kalyan/Aha-Clone/blob/main/page_ending.png)
+
+---
 ## 📜 Disclaimer
 
 This is a **personal practice project** made for educational purposes only.  
