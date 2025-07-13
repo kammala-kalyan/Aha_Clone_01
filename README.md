@@ -51,6 +51,6 @@ You can view the live version of the project here:
 
 ---
 <p align="center">
-  <img src="https://icon-library.com/images/2018/2844448_css3-logo-html-css-hd-png-download.png" alt="Badges" width="80" />
+  <img src="https://www.vhv.rs/dpng/d/486-4866189_html-css-logo-png-transparent-png.png" alt="Badges" width="80" />
 </p>
 
